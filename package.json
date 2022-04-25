@@ -1,0 +1,27 @@
+{
+  "name": "ubi-cron",
+  "version": "1.0.0",
+  "description": "Cron",
+  "main": "cron.js",
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "ethers": "^5.6.4",
+    "node-cron": "^3.0.0",
+    "shelljs": "^0.8.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nomoney34/ubi-cron.git"
+  },
+  "author": "",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/nomoney34/ubi-cron/issues"
+  },
+  "homepage": "https://github.com/nomoney34/ubi-cron#readme"
+}
